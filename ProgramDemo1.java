@@ -4,5 +4,6 @@ public class ProgramDemo1
   {
      System.out.println("Welcome to Hello World");
      System.out.println("Hi This is ProgramDemo1");
+     System.out.println("Hi This is a sample program");
   }
 }
